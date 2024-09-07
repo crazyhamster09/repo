@@ -1,1 +1,5 @@
-# Ruby Newbie: code and notes My notes and code for the course.
+
+# Ruby Newbie: my code 
+-Code for the course. 
+-Ideas 
+-Notes
